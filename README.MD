@@ -1,7 +1,7 @@
 ## Quickstart Django & React Repository
 
 This repository contains a preconfigured Django 4.0.5 with React project.
-Django comes pre-configured to use React's build files as its templates and automatically takes them into the 'static/' directory using python manage.py collectstatic
+Django comes configured to use React's build files as its templates and takes them into a 'static/' directory using python manage.py collectstatic out of the box.
 
 This repository has Django Rest Framework, Django Cors Headers and Django Rest SimpleJWT setup for you in the settings.py
 
